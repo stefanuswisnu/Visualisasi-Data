@@ -145,3 +145,4 @@ outfile.write(html)
 outfile.close()
 #save(plot, filename=f"{title}.html")
 
+curdoc().add_root(column(p))
