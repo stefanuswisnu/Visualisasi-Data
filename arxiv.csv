@@ -1,0 +1,575 @@
+id,title,cleaned_authors_list,category_list
+0704.0001,"Calculation of prompt diphoton production cross sections at Tevatron and
+  LHC energies",C. Balázs,hep-ph
+0704.0001,"Calculation of prompt diphoton production cross sections at Tevatron and
+  LHC energies",E. L. Berger,hep-ph
+0704.0001,"Calculation of prompt diphoton production cross sections at Tevatron and
+  LHC energies",P. M. Nadolsky,hep-ph
+0704.0001,"Calculation of prompt diphoton production cross sections at Tevatron and
+  LHC energies",C. -P. Yuan,hep-ph
+0704.0002,Sparsity-certifying Graph Decompositions,Ileana Streinu,math.CO
+0704.0002,Sparsity-certifying Graph Decompositions,Ileana Streinu,cs.CG
+0704.0002,Sparsity-certifying Graph Decompositions,Louis Theran,math.CO
+0704.0002,Sparsity-certifying Graph Decompositions,Louis Theran,cs.CG
+0704.0003,"The evolution of the Earth-Moon system based on the dark matter field
+  fluid model",Hongjun Pan,physics.gen-ph
+0704.0004,"A determinant of Stirling cycle numbers counts unlabeled acyclic
+  single-source automata",David Callan,math.CO
+0704.0005,From dyadic $\Lambda_{\alpha}$ to $\Lambda_{\alpha}$,Wael Abu-Shammala,math.CA
+0704.0005,From dyadic $\Lambda_{\alpha}$ to $\Lambda_{\alpha}$,Wael Abu-Shammala,math.FA
+0704.0005,From dyadic $\Lambda_{\alpha}$ to $\Lambda_{\alpha}$,Alberto Torchinsky,math.CA
+0704.0005,From dyadic $\Lambda_{\alpha}$ to $\Lambda_{\alpha}$,Alberto Torchinsky,math.FA
+0704.0006,Bosonic characters of atomic Cooper pairs across resonance,Y. H. Pong,cond-mat.mes-hall
+0704.0006,Bosonic characters of atomic Cooper pairs across resonance,C. K. Law,cond-mat.mes-hall
+0704.0007,Polymer Quantum Mechanics and its Continuum Limit,Alejandro Corichi,gr-qc
+0704.0007,Polymer Quantum Mechanics and its Continuum Limit,Tatjana Vukasinac,gr-qc
+0704.0007,Polymer Quantum Mechanics and its Continuum Limit,Jose A. Zapata,gr-qc
+0704.0008,"Numerical solution of shock and ramp compression for general material
+  properties",Damian C. Swift,cond-mat.mtrl-sci
+0704.0009,"The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The
+  Serpens YSO Population As Observed With IRAC and MIPS",Paul Harvey,astro-ph
+0704.0009,"The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The
+  Serpens YSO Population As Observed With IRAC and MIPS",Bruno Merin,astro-ph
+0704.0009,"The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The
+  Serpens YSO Population As Observed With IRAC and MIPS",Tracy L. Huard,astro-ph
+0704.0009,"The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The
+  Serpens YSO Population As Observed With IRAC and MIPS",Luisa M. Rebull,astro-ph
+0704.0009,"The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The
+  Serpens YSO Population As Observed With IRAC and MIPS",Nicholas Chapman,astro-ph
+0704.0009,"The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The
+  Serpens YSO Population As Observed With IRAC and MIPS",Neal J. Evans,astro-ph
+0704.0009,"The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The
+  Serpens YSO Population As Observed With IRAC and MIPS",Philip C. Myers,astro-ph
+0704.0010,"Partial cubes: structures, characterizations, and constructions",Sergei Ovchinnikov,math.CO
+0704.0011,"Computing genus 2 Hilbert-Siegel modular forms over $\Q(\sqrt{5})$ via
+  the Jacquet-Langlands correspondence",Clifton Cunningham,math.NT
+0704.0011,"Computing genus 2 Hilbert-Siegel modular forms over $\Q(\sqrt{5})$ via
+  the Jacquet-Langlands correspondence",Clifton Cunningham,math.AG
+0704.0011,"Computing genus 2 Hilbert-Siegel modular forms over $\Q(\sqrt{5})$ via
+  the Jacquet-Langlands correspondence",Lassina Dembele,math.NT
+0704.0011,"Computing genus 2 Hilbert-Siegel modular forms over $\Q(\sqrt{5})$ via
+  the Jacquet-Langlands correspondence",Lassina Dembele,math.AG
+0704.0012,"Distribution of integral Fourier Coefficients of a Modular Form of Half
+  Integral Weight Modulo Primes",Dohoon Choi,math.NT
+0704.0013,"$p$-adic Limit of Weakly Holomorphic Modular Forms of Half Integral
+  Weight",Dohoon Choi,math.NT
+0704.0013,"$p$-adic Limit of Weakly Holomorphic Modular Forms of Half Integral
+  Weight",YoungJu Choie,math.NT
+0704.0014,Iterated integral and the loop product,Koichi Fujii,math.CA
+0704.0014,Iterated integral and the loop product,Koichi Fujii,math.AT
+0704.0015,Fermionic superstring loop amplitudes in the pure spinor formalism,Christian Stahn,hep-th
+0704.0016,Lifetime of doubly charmed baryons,Chao-Hsi Chang,hep-ph
+0704.0016,Lifetime of doubly charmed baryons,Tong Li,hep-ph
+0704.0016,Lifetime of doubly charmed baryons,Xue-Qian Li,hep-ph
+0704.0016,Lifetime of doubly charmed baryons,Yu-Ming Wang,hep-ph
+0704.0017,"Spectroscopic Observations of the Intermediate Polar EX Hydrae in
+  Quiescence",Nceba Mhlahlo,astro-ph
+0704.0017,"Spectroscopic Observations of the Intermediate Polar EX Hydrae in
+  Quiescence",David H. Buckley,astro-ph
+0704.0017,"Spectroscopic Observations of the Intermediate Polar EX Hydrae in
+  Quiescence",Vikram S. Dhillon,astro-ph
+0704.0017,"Spectroscopic Observations of the Intermediate Polar EX Hydrae in
+  Quiescence",Steven B. Potter,astro-ph
+0704.0017,"Spectroscopic Observations of the Intermediate Polar EX Hydrae in
+  Quiescence",Brian Warner,astro-ph
+0704.0017,"Spectroscopic Observations of the Intermediate Polar EX Hydrae in
+  Quiescence",Patric A. Woudt,astro-ph
+0704.0018,In quest of a generalized Callias index theorem,Andreas Gustavsson,hep-th
+0704.0019,"Approximation for extinction probability of the contact process based on
+  the Gr\""obner basis",Norio Konno,math.PR
+0704.0019,"Approximation for extinction probability of the contact process based on
+  the Gr\""obner basis",Norio Konno,math.AG
+0704.0020,Measurement of the Hadronic Form Factor in D0 --> K- e+ nue Decays, The BABAR Collaboration,hep-ex
+0704.0020,Measurement of the Hadronic Form Factor in D0 --> K- e+ nue Decays,B. Aubert,hep-ex
+0704.0021,"Molecular Synchronization Waves in Arrays of Allosterically Regulated
+  Enzymes",Vanessa Casagrande,nlin.PS
+0704.0021,"Molecular Synchronization Waves in Arrays of Allosterically Regulated
+  Enzymes",Vanessa Casagrande,physics.chem-ph
+0704.0021,"Molecular Synchronization Waves in Arrays of Allosterically Regulated
+  Enzymes",Vanessa Casagrande,q-bio.MN
+0704.0021,"Molecular Synchronization Waves in Arrays of Allosterically Regulated
+  Enzymes",Yuichi Togashi,nlin.PS
+0704.0021,"Molecular Synchronization Waves in Arrays of Allosterically Regulated
+  Enzymes",Yuichi Togashi,physics.chem-ph
+0704.0021,"Molecular Synchronization Waves in Arrays of Allosterically Regulated
+  Enzymes",Yuichi Togashi,q-bio.MN
+0704.0021,"Molecular Synchronization Waves in Arrays of Allosterically Regulated
+  Enzymes",Alexander S. Mikhailov,nlin.PS
+0704.0021,"Molecular Synchronization Waves in Arrays of Allosterically Regulated
+  Enzymes",Alexander S. Mikhailov,physics.chem-ph
+0704.0021,"Molecular Synchronization Waves in Arrays of Allosterically Regulated
+  Enzymes",Alexander S. Mikhailov,q-bio.MN
+0704.0022,Stochastic Lie group integrators,Simon J. A. Malham,math.NA
+0704.0022,Stochastic Lie group integrators,Anke Wiese,math.NA
+0704.0023,ALMA as the ideal probe of the solar chromosphere,M. A. Loukitcheva,astro-ph
+0704.0023,ALMA as the ideal probe of the solar chromosphere,S. K. Solanki,astro-ph
+0704.0023,ALMA as the ideal probe of the solar chromosphere,S. White,astro-ph
+0704.0024,"Formation of quasi-solitons in transverse confined ferromagnetic film
+  media",A. A. Serga,nlin.PS
+0704.0024,"Formation of quasi-solitons in transverse confined ferromagnetic film
+  media",M. Kostylev,nlin.PS
+0704.0024,"Formation of quasi-solitons in transverse confined ferromagnetic film
+  media",B. Hillebrands,nlin.PS
+0704.0025,"Spectroscopic Properties of Polarons in Strongly Correlated Systems by
+  Exact Diagrammatic Monte Carlo Method",A. S. Mishchenko,cond-mat.str-el
+0704.0025,"Spectroscopic Properties of Polarons in Strongly Correlated Systems by
+  Exact Diagrammatic Monte Carlo Method",A. S. Mishchenko,cond-mat.stat-mech
+0704.0025,"Spectroscopic Properties of Polarons in Strongly Correlated Systems by
+  Exact Diagrammatic Monte Carlo Method",N. Nagaosa,cond-mat.str-el
+0704.0025,"Spectroscopic Properties of Polarons in Strongly Correlated Systems by
+  Exact Diagrammatic Monte Carlo Method",N. Nagaosa,cond-mat.stat-mech
+0704.0026,"Placeholder Substructures II: Meta-Fractals, Made of Box-Kites, Fill
+  Infinite-Dimensional Skies",Robert P. C. de Marrais,math.RA
+0704.0027,Filling-Factor-Dependent Magnetophonon Resonance in Graphene,M. O. Goerbig,cond-mat.mes-hall
+0704.0027,Filling-Factor-Dependent Magnetophonon Resonance in Graphene,J. -N. Fuchs,cond-mat.mes-hall
+0704.0027,Filling-Factor-Dependent Magnetophonon Resonance in Graphene,K. Kechedzhi,cond-mat.mes-hall
+0704.0027,Filling-Factor-Dependent Magnetophonon Resonance in Graphene,Vladimir I. Fal'ko,cond-mat.mes-hall
+0704.0028,"Pfaffians, hafnians and products of real linear functionals",Péter E. Frenkel,math.CA
+0704.0028,"Pfaffians, hafnians and products of real linear functionals",Péter E. Frenkel,math.PR
+0704.0029,"Understanding the Flavor Symmetry Breaking and Nucleon Flavor-Spin
+  Structure within Chiral Quark Model",Zhan Shu,hep-ph
+0704.0029,"Understanding the Flavor Symmetry Breaking and Nucleon Flavor-Spin
+  Structure within Chiral Quark Model",Xiao-Lin Chen,hep-ph
+0704.0029,"Understanding the Flavor Symmetry Breaking and Nucleon Flavor-Spin
+  Structure within Chiral Quark Model",Wei-Zhen Deng,hep-ph
+0704.0030,Tuning correlation effects with electron-phonon interactions,J. P. Hague,cond-mat.str-el
+0704.0030,Tuning correlation effects with electron-phonon interactions,N. d'Ambrumenil,cond-mat.str-el
+0704.0031,"Crystal channeling of LHC forward protons with preserved distribution in
+  phase space",V. M. Biryukov,hep-ph
+0704.0032,Probing non-standard neutrino interactions with supernova neutrinos,A. Esteban-Pretel,hep-ph
+0704.0032,Probing non-standard neutrino interactions with supernova neutrinos,R. Tomàs,hep-ph
+0704.0032,Probing non-standard neutrino interactions with supernova neutrinos,J. W. F. Valle,hep-ph
+0704.0033,"Convergence of the discrete dipole approximation. I. Theoretical
+  analysis",Maxim A. Yurkin,physics.optics
+0704.0033,"Convergence of the discrete dipole approximation. I. Theoretical
+  analysis",Maxim A. Yurkin,physics.comp-ph
+0704.0033,"Convergence of the discrete dipole approximation. I. Theoretical
+  analysis",Valeri P. Maltsev,physics.optics
+0704.0033,"Convergence of the discrete dipole approximation. I. Theoretical
+  analysis",Valeri P. Maltsev,physics.comp-ph
+0704.0033,"Convergence of the discrete dipole approximation. I. Theoretical
+  analysis",Alfons G. Hoekstra,physics.optics
+0704.0033,"Convergence of the discrete dipole approximation. I. Theoretical
+  analysis",Alfons G. Hoekstra,physics.comp-ph
+0704.0034,Origin of adaptive mutants: a quantum measurement?,Vasily Ogryzko,q-bio.PE
+0704.0034,Origin of adaptive mutants: a quantum measurement?,Vasily Ogryzko,q-bio.CB
+0704.0034,Origin of adaptive mutants: a quantum measurement?,Vasily Ogryzko,quant-ph
+0704.0035,"Convergence of the discrete dipole approximation. II. An extrapolation
+  technique to increase the accuracy",Maxim A. Yurkin,physics.optics
+0704.0035,"Convergence of the discrete dipole approximation. II. An extrapolation
+  technique to increase the accuracy",Maxim A. Yurkin,physics.comp-ph
+0704.0035,"Convergence of the discrete dipole approximation. II. An extrapolation
+  technique to increase the accuracy",Valeri P. Maltsev,physics.optics
+0704.0035,"Convergence of the discrete dipole approximation. II. An extrapolation
+  technique to increase the accuracy",Valeri P. Maltsev,physics.comp-ph
+0704.0035,"Convergence of the discrete dipole approximation. II. An extrapolation
+  technique to increase the accuracy",Alfons G. Hoekstra,physics.optics
+0704.0035,"Convergence of the discrete dipole approximation. II. An extrapolation
+  technique to increase the accuracy",Alfons G. Hoekstra,physics.comp-ph
+0704.0036,A remark on the number of steady states in a multiple futile cycle,Liming Wang,q-bio.QM
+0704.0036,A remark on the number of steady states in a multiple futile cycle,Liming Wang,q-bio.MN
+0704.0036,A remark on the number of steady states in a multiple futile cycle,Eduardo D. Sontag,q-bio.QM
+0704.0036,A remark on the number of steady states in a multiple futile cycle,Eduardo D. Sontag,q-bio.MN
+0704.0037,"The discrete dipole approximation for simulation of light scattering by
+  particles much larger than the wavelength",Maxim A. Yurkin,physics.optics
+0704.0037,"The discrete dipole approximation for simulation of light scattering by
+  particles much larger than the wavelength",Maxim A. Yurkin,physics.comp-ph
+0704.0037,"The discrete dipole approximation for simulation of light scattering by
+  particles much larger than the wavelength",Valeri P. Maltsev,physics.optics
+0704.0037,"The discrete dipole approximation for simulation of light scattering by
+  particles much larger than the wavelength",Valeri P. Maltsev,physics.comp-ph
+0704.0037,"The discrete dipole approximation for simulation of light scattering by
+  particles much larger than the wavelength",Alfons G. Hoekstra,physics.optics
+0704.0037,"The discrete dipole approximation for simulation of light scattering by
+  particles much larger than the wavelength",Alfons G. Hoekstra,physics.comp-ph
+0704.0038,The discrete dipole approximation: an overview and recent developments,Maxim A. Yurkin,physics.optics
+0704.0038,The discrete dipole approximation: an overview and recent developments,Maxim A. Yurkin,physics.comp-ph
+0704.0038,The discrete dipole approximation: an overview and recent developments,Alfons G. Hoekstra,physics.optics
+0704.0038,The discrete dipole approximation: an overview and recent developments,Alfons G. Hoekstra,physics.comp-ph
+0704.0039,Scalar radius of the pion and zeros in the form factor,Jose A. Oller,hep-ph
+0704.0039,Scalar radius of the pion and zeros in the form factor,Jose A. Oller,hep-lat
+0704.0039,Scalar radius of the pion and zeros in the form factor,Jose A. Oller,nucl-th
+0704.0039,Scalar radius of the pion and zeros in the form factor,Luis Roca,hep-ph
+0704.0039,Scalar radius of the pion and zeros in the form factor,Luis Roca,hep-lat
+0704.0039,Scalar radius of the pion and zeros in the form factor,Luis Roca,nucl-th
+0704.0040,"Multilinear function series in conditionally free probability with
+  amalgamation",Mihai Popa,math.OA
+0704.0040,"Multilinear function series in conditionally free probability with
+  amalgamation",Mihai Popa,math.FA
+0704.0041,Quantum Group of Isometries in Classical and Noncommutative Geometry,Debashish Goswami,math.QA
+0704.0041,Quantum Group of Isometries in Classical and Noncommutative Geometry,Debashish Goswami,math-ph
+0704.0041,Quantum Group of Isometries in Classical and Noncommutative Geometry,Debashish Goswami,math.MP
+0704.0042,"General System theory, Like-Quantum Semantics and Fuzzy Sets",Ignazio Licata,physics.gen-ph
+0704.0042,"General System theory, Like-Quantum Semantics and Fuzzy Sets",Ignazio Licata,quant-ph
+0704.0043,Nonequilibrium entropy limiters in lattice Boltzmann methods,R. A. Brownlee,cond-mat.stat-mech
+0704.0043,Nonequilibrium entropy limiters in lattice Boltzmann methods,R. A. Brownlee,cond-mat.mtrl-sci
+0704.0043,Nonequilibrium entropy limiters in lattice Boltzmann methods,A. N. Gorban,cond-mat.stat-mech
+0704.0043,Nonequilibrium entropy limiters in lattice Boltzmann methods,A. N. Gorban,cond-mat.mtrl-sci
+0704.0043,Nonequilibrium entropy limiters in lattice Boltzmann methods,J. Levesley,cond-mat.stat-mech
+0704.0043,Nonequilibrium entropy limiters in lattice Boltzmann methods,J. Levesley,cond-mat.mtrl-sci
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",A. A. Schekochihin,astro-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",A. A. Schekochihin,nlin.CD
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",A. A. Schekochihin,physics.plasm-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",A. A. Schekochihin,physics.space-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",S. C. Cowley,astro-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",S. C. Cowley,nlin.CD
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",S. C. Cowley,physics.plasm-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",S. C. Cowley,physics.space-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",W. Dorland,astro-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",W. Dorland,nlin.CD
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",W. Dorland,physics.plasm-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",W. Dorland,physics.space-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",G. W. Hammett,astro-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",G. W. Hammett,nlin.CD
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",G. W. Hammett,physics.plasm-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",G. W. Hammett,physics.space-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",G. G. Howes,astro-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",G. G. Howes,nlin.CD
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",G. G. Howes,physics.plasm-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",G. G. Howes,physics.space-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",E. Quataert,astro-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",E. Quataert,nlin.CD
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",E. Quataert,physics.plasm-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",E. Quataert,physics.space-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",T. Tatsuno,astro-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",T. Tatsuno,nlin.CD
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",T. Tatsuno,physics.plasm-ph
+0704.0044,"Astrophysical gyrokinetics: kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas",T. Tatsuno,physics.space-ph
+0704.0045,"Evolution of solitary waves and undular bores in shallow-water flows
+  over a gradual slope with bottom friction",G. A. El,nlin.PS
+0704.0045,"Evolution of solitary waves and undular bores in shallow-water flows
+  over a gradual slope with bottom friction",G. A. El,nlin.SI
+0704.0045,"Evolution of solitary waves and undular bores in shallow-water flows
+  over a gradual slope with bottom friction",R. H. J. Grimshaw,nlin.PS
+0704.0045,"Evolution of solitary waves and undular bores in shallow-water flows
+  over a gradual slope with bottom friction",R. H. J. Grimshaw,nlin.SI
+0704.0045,"Evolution of solitary waves and undular bores in shallow-water flows
+  over a gradual slope with bottom friction",A. M. Kamchatnov,nlin.PS
+0704.0045,"Evolution of solitary waves and undular bores in shallow-water flows
+  over a gradual slope with bottom friction",A. M. Kamchatnov,nlin.SI
+0704.0046,A limit relation for entropy and channel capacity per unit cost,I. Csiszar,quant-ph
+0704.0046,A limit relation for entropy and channel capacity per unit cost,I. Csiszar,cs.IT
+0704.0046,A limit relation for entropy and channel capacity per unit cost,I. Csiszar,math.IT
+0704.0046,A limit relation for entropy and channel capacity per unit cost,F. Hiai,quant-ph
+0704.0046,A limit relation for entropy and channel capacity per unit cost,F. Hiai,cs.IT
+0704.0046,A limit relation for entropy and channel capacity per unit cost,F. Hiai,math.IT
+0704.0046,A limit relation for entropy and channel capacity per unit cost,D. Petz,quant-ph
+0704.0046,A limit relation for entropy and channel capacity per unit cost,D. Petz,cs.IT
+0704.0046,A limit relation for entropy and channel capacity per unit cost,D. Petz,math.IT
+0704.0047,"Intelligent location of simultaneously active acoustic emission sources:
+  Part I",T. Kosel,cs.NE
+0704.0047,"Intelligent location of simultaneously active acoustic emission sources:
+  Part I",T. Kosel,cs.AI
+0704.0047,"Intelligent location of simultaneously active acoustic emission sources:
+  Part I",I. Grabec,cs.NE
+0704.0047,"Intelligent location of simultaneously active acoustic emission sources:
+  Part I",I. Grabec,cs.AI
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Alexander Stroeer,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Alexander Stroeer,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",John Veitch,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",John Veitch,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Christian Roever,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Christian Roever,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Ed Bloomer,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Ed Bloomer,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",James Clark,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",James Clark,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Nelson Christensen,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Nelson Christensen,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Martin Hendry,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Martin Hendry,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Chris Messenger,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Chris Messenger,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Renate Meyer,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Renate Meyer,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Matthew Pitkin,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Matthew Pitkin,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Jennifer Toher,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Jennifer Toher,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Richard Umstaetter,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Richard Umstaetter,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Alberto Vecchio,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Alberto Vecchio,astro-ph
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Graham Woan,gr-qc
+0704.0048,"Inference on white dwarf binary systems using the first round Mock LISA
+  Data Challenges data sets",Graham Woan,astro-ph
+0704.0049,An algorithm for the classification of smooth Fano polytopes,Mikkel Øbro,math.CO
+0704.0050,"Intelligent location of simultaneously active acoustic emission sources:
+  Part II",T. Kosel,cs.NE
+0704.0050,"Intelligent location of simultaneously active acoustic emission sources:
+  Part II",T. Kosel,cs.AI
+0704.0050,"Intelligent location of simultaneously active acoustic emission sources:
+  Part II",I. Grabec,cs.NE
+0704.0050,"Intelligent location of simultaneously active acoustic emission sources:
+  Part II",I. Grabec,cs.AI
+0704.0051,Visualizing Teleportation,Scott M. Cohen,physics.ed-ph
+0704.0051,Visualizing Teleportation,Scott M. Cohen,quant-ph
+0704.0052,Quantum Field Theory on Curved Backgrounds. II. Spacetime Symmetries,Arthur Jaffe,hep-th
+0704.0052,Quantum Field Theory on Curved Backgrounds. II. Spacetime Symmetries,Gordon Ritter,hep-th
+0704.0053,A Global Approach to the Theory of Special Finsler Manifolds,Nabil L. Youssef,math.DG
+0704.0053,A Global Approach to the Theory of Special Finsler Manifolds,Nabil L. Youssef,gr-qc
+0704.0053,A Global Approach to the Theory of Special Finsler Manifolds,S. H. Abed,math.DG
+0704.0053,A Global Approach to the Theory of Special Finsler Manifolds,S. H. Abed,gr-qc
+0704.0053,A Global Approach to the Theory of Special Finsler Manifolds,A. Soleiman,math.DG
+0704.0053,A Global Approach to the Theory of Special Finsler Manifolds,A. Soleiman,gr-qc
+0704.0054,"The Hardy-Lorentz Spaces $H^{p,q}(R^n)$",Wael Abu-Shammala,math.CA
+0704.0054,"The Hardy-Lorentz Spaces $H^{p,q}(R^n)$",Wael Abu-Shammala,math.FA
+0704.0054,"The Hardy-Lorentz Spaces $H^{p,q}(R^n)$",Alberto Torchinsky,math.CA
+0704.0054,"The Hardy-Lorentz Spaces $H^{p,q}(R^n)$",Alberto Torchinsky,math.FA
+0704.0055,"Potassium intercalation in graphite: A van der Waals density-functional
+  study",Eleni Ziambaras,cond-mat.soft
+0704.0055,"Potassium intercalation in graphite: A van der Waals density-functional
+  study",Eleni Ziambaras,cond-mat.mtrl-sci
+0704.0055,"Potassium intercalation in graphite: A van der Waals density-functional
+  study",Jesper Kleis,cond-mat.soft
+0704.0055,"Potassium intercalation in graphite: A van der Waals density-functional
+  study",Jesper Kleis,cond-mat.mtrl-sci
+0704.0055,"Potassium intercalation in graphite: A van der Waals density-functional
+  study",Elsebeth Schroder,cond-mat.soft
+0704.0055,"Potassium intercalation in graphite: A van der Waals density-functional
+  study",Elsebeth Schroder,cond-mat.mtrl-sci
+0704.0055,"Potassium intercalation in graphite: A van der Waals density-functional
+  study",Per Hyldgaard,cond-mat.soft
+0704.0055,"Potassium intercalation in graphite: A van der Waals density-functional
+  study",Per Hyldgaard,cond-mat.mtrl-sci
+0704.0056,Phase diagram of Gaussian-core nematics,Santi Prestipino,cond-mat.soft
+0704.0056,Phase diagram of Gaussian-core nematics,Santi Prestipino,cond-mat.mtrl-sci
+0704.0056,Phase diagram of Gaussian-core nematics,Franz Saija,cond-mat.soft
+0704.0056,Phase diagram of Gaussian-core nematics,Franz Saija,cond-mat.mtrl-sci
+0704.0057,"High-spin to low-spin and orbital polarization transitions in
+  multiorbital Mott systems",Philipp Werner,cond-mat.str-el
+0704.0057,"High-spin to low-spin and orbital polarization transitions in
+  multiorbital Mott systems",Andrew J. Millis,cond-mat.str-el
+0704.0058,Intelligent Life in Cosmology,Frank J. Tipler,physics.pop-ph
+0704.0059,"The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013",T. G. Beatty,astro-ph
+0704.0059,"The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013",J. M. Fernandez,astro-ph
+0704.0059,"The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013",D. W. Latham,astro-ph
+0704.0059,"The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013",G. A. Bakos,astro-ph
+0704.0059,"The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013",G. Kovacs,astro-ph
+0704.0059,"The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013",R. W. Noyes,astro-ph
+0704.0059,"The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013",R. P. Stefanik,astro-ph
+0704.0059,"The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013",G. Torres,astro-ph
+0704.0059,"The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013",M. E. Everett,astro-ph
+0704.0059,"The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
+  Eclipsing Binary HAT-TR-205-013",C. W. Hergenrother,astro-ph
+0704.0060,Coulomb excitation of unstable nuclei at intermediate energies,C. A. Bertulani,nucl-th
+0704.0060,Coulomb excitation of unstable nuclei at intermediate energies,G. Cardella,nucl-th
+0704.0060,Coulomb excitation of unstable nuclei at intermediate energies,M. De Napoli,nucl-th
+0704.0060,Coulomb excitation of unstable nuclei at intermediate energies,G. Raciti,nucl-th
+0704.0060,Coulomb excitation of unstable nuclei at intermediate energies,E. Rapisarda,nucl-th
+0704.0061,Intersection Bodies and Generalized Cosine Transforms,Boris Rubin,math.FA
+0704.0062,On-line Viterbi Algorithm and Its Relationship to Random Walks,Rastislav Šrámek,cs.DS
+0704.0062,On-line Viterbi Algorithm and Its Relationship to Random Walks,Broňa Brejová,cs.DS
+0704.0062,On-line Viterbi Algorithm and Its Relationship to Random Walks,Tomáš Vinař,cs.DS
+0704.0063,Experimental efforts in search of 76Ge Neutrinoless Double Beta Decay,Somnath Choudhury,hep-ph
+0704.0064,"Nilpotent symmetry invariance in the superfield formulation: the
+  (non-)Abelian 1-form gauge theories",R. P. Malik,hep-th
+0704.0065,Littlewood-Richardson polynomials,A. I. Molev,math.AG
+0704.0065,Littlewood-Richardson polynomials,A. I. Molev,math.CO
+0704.0066,"Lagrangian quantum field theory in momentum picture. IV. Commutation
+  relations for free fields",Bozhidar Z. Iliev,hep-th
+0704.0067,Order of Epitaxial Self-Assembled Quantum Dots: Linear Analysis,Lawrence H. Friedman,cond-mat.mtrl-sci
+0704.0068,A Note About the {Ki(z)} Functions,Branko J. Malesevic,math.NT
+0704.0068,A Note About the {Ki(z)} Functions,Branko J. Malesevic,math.CV
+0704.0069,Dynamical Objects for Cohomologically Expanding Maps,John W. Robertson,math.DS
+0704.0070,"Coincidence of the oscillations in the dipole transition and in the
+  persistent current of narrow quantum rings with two electrons",He Yanzhang,cond-mat.mes-hall
+0704.0070,"Coincidence of the oscillations in the dipole transition and in the
+  persistent current of narrow quantum rings with two electrons",Bao Chengguang,cond-mat.mes-hall
+0704.0071,Pairwise comparisons of typological profiles (of languages),S. Wichmann,physics.soc-ph
+0704.0071,Pairwise comparisons of typological profiles (of languages),E. W. Holman,physics.soc-ph
+0704.0072,"The decomposition method and Maple procedure for finding first integrals
+  of nonlinear PDEs of any order with any number of independent variables",Yu. N. Kosovtsov,math-ph
+0704.0072,"The decomposition method and Maple procedure for finding first integrals
+  of nonlinear PDEs of any order with any number of independent variables",Yu. N. Kosovtsov,math.MP
+0704.0073,A transcendental approach to Koll\'ar's injectivity theorem,Osamu Fujino,math.AG
+0704.0074,Injective Morita contexts (revisited),J. Y. Abuhlail,math.RA
+0704.0074,Injective Morita contexts (revisited),S. K. Nauman,math.RA
+0704.0075,Strong decays of charmed baryons,Chong Chen,hep-ph
+0704.0075,Strong decays of charmed baryons,Chong Chen,hep-ex
+0704.0075,Strong decays of charmed baryons,Chong Chen,nucl-ex
+0704.0075,Strong decays of charmed baryons,Xiao-Lin Chen,hep-ph
+0704.0075,Strong decays of charmed baryons,Xiao-Lin Chen,hep-ex
+0704.0075,Strong decays of charmed baryons,Xiao-Lin Chen,nucl-ex
+0704.0075,Strong decays of charmed baryons,Xiang Liu,hep-ph
+0704.0075,Strong decays of charmed baryons,Xiang Liu,hep-ex
+0704.0075,Strong decays of charmed baryons,Xiang Liu,nucl-ex
+0704.0075,Strong decays of charmed baryons,Wei-Zhen Deng,hep-ph
+0704.0075,Strong decays of charmed baryons,Wei-Zhen Deng,hep-ex
+0704.0075,Strong decays of charmed baryons,Wei-Zhen Deng,nucl-ex
+0704.0075,Strong decays of charmed baryons,Shi-Lin Zhu,hep-ph
+0704.0075,Strong decays of charmed baryons,Shi-Lin Zhu,hep-ex
+0704.0075,Strong decays of charmed baryons,Shi-Lin Zhu,nucl-ex
+0704.0076,CP violation in beauty decays,Michael Gronau,hep-ph
+0704.0076,CP violation in beauty decays,Michael Gronau,hep-ex
+0704.0077,Universal Forces and the Dark Energy Problem,Afsar Abbas,physics.gen-ph
+0704.0078,"Linear perturbations of matched spacetimes: the gauge problem and
+  background symmetries",Marc Mars,gr-qc
+0704.0078,"Linear perturbations of matched spacetimes: the gauge problem and
+  background symmetries",Filipe C. Mena,gr-qc
+0704.0078,"Linear perturbations of matched spacetimes: the gauge problem and
+  background symmetries",Raul Vera,gr-qc
+0704.0079,Operator algebras associated with unitary commutation relations,Stephen C. Power,math.OA
+0704.0079,Operator algebras associated with unitary commutation relations,Baruch Solel,math.OA
+0704.0080,"Shaping the Globular Cluster Mass Function by Stellar-Dynamical
+  Evaporation",Dean E. McLaughlin,astro-ph
+0704.0080,"Shaping the Globular Cluster Mass Function by Stellar-Dynamical
+  Evaporation",S. Michael Fall,astro-ph
+0704.0081,Quantum Deformations of Relativistic Symmetries,V. N. Tolstoy,math.QA
+0704.0081,Quantum Deformations of Relativistic Symmetries,V. N. Tolstoy,hep-th
+0704.0081,Quantum Deformations of Relativistic Symmetries,V. N. Tolstoy,math-ph
+0704.0081,Quantum Deformations of Relativistic Symmetries,V. N. Tolstoy,math.MP
+0704.0081,Quantum Deformations of Relativistic Symmetries,V. N. Tolstoy,math.RT
+0704.0082,"Matter-Wave Bright Solitons with a Finite Background in Spinor
+  Bose-Einstein Condensates",Tetsuo Kurosaki,cond-mat.other
+0704.0082,"Matter-Wave Bright Solitons with a Finite Background in Spinor
+  Bose-Einstein Condensates",Tetsuo Kurosaki,cond-mat.stat-mech
+0704.0082,"Matter-Wave Bright Solitons with a Finite Background in Spinor
+  Bose-Einstein Condensates",Miki Wadati,cond-mat.other
+0704.0082,"Matter-Wave Bright Solitons with a Finite Background in Spinor
+  Bose-Einstein Condensates",Miki Wadati,cond-mat.stat-mech
+0704.0083,Why there is something rather than nothing (out of everything)?,A. O. Barvinsky,hep-th
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Itzhak Fouxon,cond-mat.soft
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Itzhak Fouxon,nlin.PS
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Itzhak Fouxon,physics.flu-dyn
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Baruch Meerson,cond-mat.soft
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Baruch Meerson,nlin.PS
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Baruch Meerson,physics.flu-dyn
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Michael Assaf,cond-mat.soft
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Michael Assaf,nlin.PS
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Michael Assaf,physics.flu-dyn
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Eli Livne,cond-mat.soft
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Eli Livne,nlin.PS
+0704.0084,"Formation of density singularities in ideal hydrodynamics of freely
+  cooling inelastic gases: a family of exact solutions",Eli Livne,physics.flu-dyn
+0704.0085,A Universality in PP-Waves,Partha Mukhopadhyay,hep-th
+0704.0086,Clustering in a stochastic model of one-dimensional gas,Vladislav V. Vysotsky,math.PR
+0704.0087,"Approximate solutions to the Dirichlet problem for harmonic maps between
+  hyperbolic spaces",Duong Minh Duc,math.DG
+0704.0087,"Approximate solutions to the Dirichlet problem for harmonic maps between
+  hyperbolic spaces",Truong Trung Tuyen,math.DG
+0704.0088,Some new experimental photonic flame effect features,N. V. Tcherniega,physics.optics
+0704.0089,"A general approach to statistical modeling of physical laws:
+  nonparametric regression",I. Grabec,physics.data-an
+0704.0089,"A general approach to statistical modeling of physical laws:
+  nonparametric regression",I. Grabec,physics.gen-ph
+0704.0090,Real Options for Project Schedules (ROPS),Lester Ingber,cs.CE
+0704.0090,Real Options for Project Schedules (ROPS),Lester Ingber,cond-mat.stat-mech
+0704.0090,Real Options for Project Schedules (ROPS),Lester Ingber,cs.MS
+0704.0090,Real Options for Project Schedules (ROPS),Lester Ingber,cs.NA
+0704.0090,Real Options for Project Schedules (ROPS),Lester Ingber,physics.data-an
+0704.0091,Groups with finitely many conjugacy classes and their automorphisms,Ashot Minasyan,math.GR
+0704.0092,Energy density for chiral lattice fermions with chemical potential,Christof Gattringer,hep-lat
+0704.0092,Energy density for chiral lattice fermions with chemical potential,Christof Gattringer,hep-ph
+0704.0092,Energy density for chiral lattice fermions with chemical potential,Ludovit Liptak,hep-lat
+0704.0092,Energy density for chiral lattice fermions with chemical potential,Ludovit Liptak,hep-ph
+0704.0093,"Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved
+  Photoemission Spectroscopy",W. S. Lee,cond-mat.supr-con
+0704.0093,"Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved
+  Photoemission Spectroscopy",W. S. Lee,cond-mat.str-el
+0704.0093,"Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved
+  Photoemission Spectroscopy",S. Johnston,cond-mat.supr-con
+0704.0093,"Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved
+  Photoemission Spectroscopy",S. Johnston,cond-mat.str-el
+0704.0093,"Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved
+  Photoemission Spectroscopy",T. P. Devereaux,cond-mat.supr-con
+0704.0093,"Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved
+  Photoemission Spectroscopy",T. P. Devereaux,cond-mat.str-el
+0704.0093,"Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved
+  Photoemission Spectroscopy",Z. -X. Shen,cond-mat.supr-con
+0704.0093,"Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved
+  Photoemission Spectroscopy",Z. -X. Shen,cond-mat.str-el
+0704.0094,"Timing and Lensing of the Colliding Bullet Clusters: barely enough time
+  and gravity to accelerate the bullet",HongSheng Zhao,astro-ph
+0704.0095,"Geometry of Locally Compact Groups of Polynomial Growth and Shape of
+  Large Balls",Emmanuel Breuillard,math.GR
+0704.0095,"Geometry of Locally Compact Groups of Polynomial Growth and Shape of
+  Large Balls",Emmanuel Breuillard,math.DG
+0704.0096,Much ado about 248,M. C. Nucci,nlin.SI
+0704.0096,Much ado about 248,P. G. L. Leach,nlin.SI
+0704.0097,Conformal Field Theory and Operator Algebras,Yasuyuki Kawahigashi,math-ph
+0704.0097,Conformal Field Theory and Operator Algebras,Yasuyuki Kawahigashi,math.MP
+0704.0097,Conformal Field Theory and Operator Algebras,Yasuyuki Kawahigashi,math.OA
+0704.0098,Sparsely-spread CDMA - a statistical mechanics based analysis,Jack Raymond,cs.IT
+0704.0098,Sparsely-spread CDMA - a statistical mechanics based analysis,Jack Raymond,math.IT
+0704.0098,Sparsely-spread CDMA - a statistical mechanics based analysis,David Saad,cs.IT
+0704.0098,Sparsely-spread CDMA - a statistical mechanics based analysis,David Saad,math.IT
+0704.0099,On Ando's inequalities for convex and concave functions,Koenraad M. R. Audenaert,math.FA
+0704.0099,On Ando's inequalities for convex and concave functions,Jaspal Singh Aujla,math.FA
+0704.0100,Topology Change of Black Holes,Daisuke Ida,gr-qc
+0704.0100,Topology Change of Black Holes,Masaru Siino,gr-qc
