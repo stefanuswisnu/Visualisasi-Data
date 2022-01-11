@@ -26,9 +26,10 @@ from bokeh.palettes import Blues8, Reds8, Purples8, Oranges8, Viridis8, Spectral
 from bokeh.transform import linear_cmap
 from networkx.algorithms import community
 
-
+# Read Dataset
 df = pd.read_csv("arxiv.csv")
 
+# Separate Title, Author, Category into different dataframe
 df_title = df[['title']].drop_duplicates().reset_index(drop=True)
 df_title.head()
 
@@ -41,14 +42,12 @@ df_category_list.head()
 
 output_notebook()
 
+# Create Graph
 G1 = nx.from_pandas_edgelist(df, 'title', 'cleaned_authors_list')
 G2 = nx.from_pandas_edgelist(df, 'title', 'category_list')
 G = nx.compose(G1,G2)
 
-# G.nodes['C. Balázs']["Author"] ='C. Balázs'
-
-# G.nodes['C. Balázs']
-
+# Create Label in Node
 for i, j in G.nodes(data=True):
   if i in df_title.values:
     G.nodes[i]["Title"] = i
@@ -57,6 +56,7 @@ for i, j in G.nodes(data=True):
   elif i in df_category_list.values:
     G.nodes[i]["Category"] = i
 
+# Calculate Degrees of every node
 degrees = dict(nx.degree(G))
 nx.set_node_attributes(G, name='degree', values=degrees)
 
@@ -64,6 +64,7 @@ number_to_adjust_by = 5
 adjusted_node_size = dict([(node, degree+number_to_adjust_by) for node, degree in nx.degree(G)])
 nx.set_node_attributes(G, name='adjusted_node_size', values=adjusted_node_size)
 
+# Calculate Communities
 communities = community.greedy_modularity_communities(G)
 
 # Create empty dictionaries
@@ -71,8 +72,7 @@ modularity_class = {}
 modularity_color = {}
 #Loop through each community in the network
 for community_number, community in enumerate(communities):
-  # print(community)
-    #For each member of the community, add their community number and a distinct color
+
   i = community_number % len(Spectral8)
   for name in community: 
       modularity_class[name] = community_number
@@ -95,7 +95,7 @@ color_by_this_attribute = 'modularity_color'
 color_palette = Blues8
 
 #Choose a title!
-title = 'Paper Please'
+title = 'Arxiv Graph'
 
 #Establish which categories will appear when hovering over each node
 HOVER_TOOLTIPS = [
@@ -139,6 +139,7 @@ show(plot)
 from bokeh.resources import CDN
 from bokeh.embed import file_html
 
+# Save Graph into HTML
 html = file_html(plot, CDN, "Paper Plase")
 outfile = open("arxiv.html",'w')
 outfile.write(html)
